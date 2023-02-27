@@ -1,0 +1,27 @@
+body {
+background-color: yellow;
+   font-size: larger;
+    text-align: center;
+}
+
+.img {
+    width: 400px;
+    height: 200px;
+    padding: 30px;
+}
+
+.img1 {
+    width: 500px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid
+}
+
+.divas {
+ font-weight: bold;
+ color: green;
+}
+.text-color {
+color: red;
+
+}
